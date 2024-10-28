@@ -1,1 +1,0 @@
-print("Hi Welcome to semicolon programming with python")

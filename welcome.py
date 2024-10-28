@@ -1,1 +1,0 @@
-print("Hello dynamites welcome to programming class with python")
