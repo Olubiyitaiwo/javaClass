@@ -29,7 +29,8 @@ public class LagbajaSchool{
 	}
 	public static void studentGrade1(){
 		Scanner input = new Scanner(System.in);
-		
+		int sum = 0;
+		double average = 0;
 		int[][] scores = new int[1][3];
 		System.out.print("Enter students: ");
 		for(int counter = 0; counter < scores.length; counter++){
@@ -37,9 +38,13 @@ public class LagbajaSchool{
 			System.out.println("Entering scores for student 1");
 			System.out.println("Enter scores for subjects : ");
 				scores[counter][index] = input.nextInt();
+				sum += scores[counter][index];
+				average = sum/3;
 		  }
 		}
 		System.out.println("Student 1: " + Arrays.deepToString(scores));
+		System.out.println("Total: " + sum);
+		System.out.println("Average: " + average);
 		System.out.println("Saving>>>>>>>>>>>>>>>>>>>>>>");
 		System.out.println("Saved successfully");
 	}
@@ -47,6 +52,8 @@ public class LagbajaSchool{
 	public static void studentGrade2(){
 		Scanner input = new Scanner(System.in);
 		
+		int sum = 0;
+		double average = 0;
 		int[][] scores = new int[1][3];
 		System.out.print("Enter students: ");
 		for(int counter = 0; counter < scores.length; counter++){
@@ -54,9 +61,13 @@ public class LagbajaSchool{
 			System.out.println("Entering scores for student 2");
 			System.out.println("Enter scores for subjects: ");
 				scores[counter][index] = input.nextInt();
+				sum += scores[counter][index];
+				average = sum/3;
 		  }
 		}
 		System.out.println("Student 2: " + Arrays.deepToString(scores));
+		System.out.println("Total: " + sum);
+		System.out.println("Average: " + average);
 		System.out.println("Saving>>>>>>>>>>>>>>>>>>>>>>");
 		System.out.println("Saved successfully");
 	}
@@ -64,6 +75,8 @@ public class LagbajaSchool{
 		public static void studentGrade3(){
 		Scanner input = new Scanner(System.in);
 		
+			int sum = 0;
+			double average = 0;
 		int[][] scores = new int[1][3];
 		System.out.print("Enter student: ");
 		for(int counter = 0; counter < scores.length; counter++){
@@ -71,16 +84,21 @@ public class LagbajaSchool{
 			System.out.println("Entering scores for student 3");
 			System.out.println("Enter scores for subject : ");
 				scores[counter][index] = input.nextInt();
+				sum += scores[counter][index];
+				average = sum/3;
 		  }
 		}
 		System.out.println("Student 3:" + Arrays.deepToString(scores));
+		System.out.println("Total: " + sum);
+		System.out.println("Average: " + average);
 		System.out.println("Saving>>>>>>>>>>>>>>>>>>>>>>");
 		System.out.println("Saved successfully");
 	}
 	
 	public static void studentGrade4(){
 		Scanner input = new Scanner(System.in);
-		
+		int sum =0;
+		double average = 0;
 		int[][] scores = new int[1][3];
 		System.out.print("Enter student: ");
 		for(int counter = 0; counter < scores.length; counter++){
@@ -88,10 +106,16 @@ public class LagbajaSchool{
 			System.out.println("Entering scores for student 4");
 			System.out.println("Enter scores for subject : ");
 				scores[counter][index] = input.nextInt();
+				sum += scores[counter][index];
+				average = sum/3;
 		  }
 		}
 		System.out.println("Student 4:" + Arrays.deepToString(scores));
+		System.out.println("Total: " + sum);
+		System.out.println("Average: " + average);
 		System.out.println("Saving>>>>>>>>>>>>>>>>>>>>>>");
 		System.out.println("Saved successfully");
 	}
+		
+
 }
