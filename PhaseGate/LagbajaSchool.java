@@ -42,11 +42,7 @@ public class LagbajaSchool{
 				average = sum/3;
 		  }
 		}
-		System.out.println("Student 1: " + Arrays.deepToString(scores));
-		System.out.println("Total: " + sum);
-		System.out.println("Average: " + average);
-		System.out.println("Saving>>>>>>>>>>>>>>>>>>>>>>");
-		System.out.println("Saved successfully");
+		System.out.println("Student 1:" + Arrays.deepToString(scores) + " " + sum + " " + average);
 	}
 
 	public static void studentGrade2(){
@@ -65,11 +61,7 @@ public class LagbajaSchool{
 				average = sum/3;
 		  }
 		}
-		System.out.println("Student 2: " + Arrays.deepToString(scores));
-		System.out.println("Total: " + sum);
-		System.out.println("Average: " + average);
-		System.out.println("Saving>>>>>>>>>>>>>>>>>>>>>>");
-		System.out.println("Saved successfully");
+		System.out.println("Student 2:" + Arrays.deepToString(scores) + " " + sum + " " + average);
 	}
 
 		public static void studentGrade3(){
@@ -91,6 +83,7 @@ public class LagbajaSchool{
 		System.out.println("Student 3:" + Arrays.deepToString(scores));
 		System.out.println("Total: " + sum);
 		System.out.println("Average: " + average);
+		System.out.println("Student 3:" + Arrays.deepToString(scores) + " " + sum + " " + average);
 		System.out.println("Saving>>>>>>>>>>>>>>>>>>>>>>");
 		System.out.println("Saved successfully");
 	}
@@ -103,24 +96,23 @@ public class LagbajaSchool{
 		System.out.print("Enter student: ");
 		for(int counter = 0; counter < scores.length; counter++){
 			for(int index = 0; index < scores[counter].length; index++){
-			System.out.println("Entering scores for student 4");
-			System.out.println("Enter scores for subject : ");
-				scores[counter][index] = input.nextInt();
+		System.out.println("Entering scores for student 4");
+		System.out.println("Enter scores for subject : ");
+			scores[counter][index] = input.nextInt();
 				sum += scores[counter][index];
 				average = sum/3;
+
 		  }
 		}
-		System.out.println("Student 4:" + Arrays.deepToString(scores));
+		System.out.println("Student 4:" + Arrays.deepToString(scores) +  sum + average);
 		System.out.println("Total: " + sum);
 		System.out.println("Average: " + average);
+		System.out.println("Student 4:" + Arrays.deepToString(scores) + " " + sum + " " + average);
 		System.out.println("Saving>>>>>>>>>>>>>>>>>>>>>>");
-		System.out.println("Saved successfully");
+		System.out.println("Saved successfully"); 
 	}
+		public static void scoreBoard(){
 		
-		public static void studentGradeTable(){
-		System.out.print("""
-				STUDENT    SUB1  SUB2  SUB3  SUB4 TOT  AVE  POS
-				 
-				""");
-		}
+	
+	}
 }
