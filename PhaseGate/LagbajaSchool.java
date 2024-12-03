@@ -95,7 +95,7 @@ public class LagbajaSchool{
 		System.out.println("Saved successfully");
 	}
 	
-	public static void studentGrade4(){
+		public static void studentGrade4(){
 		Scanner input = new Scanner(System.in);
 		int sum =0;
 		double average = 0;
@@ -117,5 +117,10 @@ public class LagbajaSchool{
 		System.out.println("Saved successfully");
 	}
 		
-
+		public static void studentGradeTable(){
+		System.out.print("""
+				STUDENT    SUB1  SUB2  SUB3  SUB4 TOT  AVE  POS
+				 
+				""");
+		}
 }
