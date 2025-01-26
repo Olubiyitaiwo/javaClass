@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02c01bf7-8cfc-42c3-8db1-963038f034ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SemicolonJavaClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/list/in/java/test/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/list/in/java/test/SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lists/in/java/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lists/in/java/Set.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2rxa6Qlu1PqpqaQ0ljohwFyOsTy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.ArrayListTest.addElement_myArrayListIsNotEmpty.executor": "Run",
+    "JUnit.ArrayListTest.checkMyArrayListSize.executor": "Run",
+    "JUnit.ArrayListTest.executor": "Run",
+    "JUnit.ArrayListTest.myArrayList_elementCanBeAdded.executor": "Run",
+    "JUnit.ArrayListTest.test.executor": "Run",
+    "JUnit.ArrayListTest.testThat_I_CanGetElements_AfterTheyAre_Added.executor": "Run",
+    "JUnit.ArrayListTest.testThat_I_Can_Add_More_Than_Capacity.executor": "Run",
+    "JUnit.SetTest.test_that_set_can_remove_element.executor": "Run",
+    "JUnit.SetTest.test_that_set_can_remove_more_than_one_element.executor": "Run",
+    "JUnit.SetTest.test_that_set_contains_more_than_one_element.executor": "Run",
+    "JUnit.SetTest.test_that_set_does_not_contain_duplicates.executor": "Run",
+    "JUnit.SetTest.test_that_set_is_empty (1).executor": "Run",
+    "JUnit.SetTest.test_that_set_is_empty.executor": "Run",
+    "JUnit.SetTest.test_that_set_is_not_empty.executor": "Run",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/DELL/IdeaProjects/SemicolonJavaClass/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.SetTest.test_that_set_can_remove_more_than_one_element">
+    <configuration name="SetTest.test_that_set_can_remove_element" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SemicolonJavaClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.in.java.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="list.in.java.test" />
+      <option name="MAIN_CLASS_NAME" value="list.in.java.test.SetTest" />
+      <option name="METHOD_NAME" value="test_that_set_can_remove_element" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetTest.test_that_set_can_remove_more_than_one_element" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SemicolonJavaClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.in.java.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="list.in.java.test" />
+      <option name="MAIN_CLASS_NAME" value="list.in.java.test.SetTest" />
+      <option name="METHOD_NAME" value="test_that_set_can_remove_more_than_one_element" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetTest.test_that_set_contains_more_than_one_element" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SemicolonJavaClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.in.java.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="list.in.java.test" />
+      <option name="MAIN_CLASS_NAME" value="list.in.java.test.SetTest" />
+      <option name="METHOD_NAME" value="test_that_set_contains_more_than_one_element" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetTest.test_that_set_does_not_contain_duplicates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SemicolonJavaClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.in.java.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="list.in.java.test" />
+      <option name="MAIN_CLASS_NAME" value="list.in.java.test.SetTest" />
+      <option name="METHOD_NAME" value="test_that_set_does_not_contain_duplicates" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetTest.test_that_set_is_not_empty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SemicolonJavaClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.in.java.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="list.in.java.test" />
+      <option name="MAIN_CLASS_NAME" value="list.in.java.test.SetTest" />
+      <option name="METHOD_NAME" value="test_that_set_is_not_empty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SetTest.test_that_set_can_remove_more_than_one_element" />
+        <item itemvalue="JUnit.SetTest.test_that_set_can_remove_element" />
+        <item itemvalue="JUnit.SetTest.test_that_set_does_not_contain_duplicates" />
+        <item itemvalue="JUnit.SetTest.test_that_set_contains_more_than_one_element" />
+        <item itemvalue="JUnit.SetTest.test_that_set_is_not_empty" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02c01bf7-8cfc-42c3-8db1-963038f034ab" name="Changes" comment="" />
+      <created>1737503009649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737503009649</updated>
+      <workItem from="1737503010971" duration="54149000" />
+      <workItem from="1737790331642" duration="29419000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/list/in/java/test/ArrayListTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
